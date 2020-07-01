@@ -1,0 +1,38 @@
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+nav{
+  background-color: rgb(0, 0, 0);
+  
+}
+
+#index-banner{
+  background-image: url('/bg.jpg') ;
+  
+  
+}
+
+
+
+
+.t{ 
+  margin: 0px 50px;
+ 
+}
+
+footer{
+  background-color: rgb(0, 0, 0);
+  padding: 25px;
+}
+
+footer p{
+  color: white;
+  text-align: center;
+}
